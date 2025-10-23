@@ -1,1 +1,0 @@
-# TEX_katas
